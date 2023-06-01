@@ -11,7 +11,10 @@ This project aims to use deep learning to accurately segment buildings and roads
 ## Dataset
 There are 299 images for training and 75 images for testing, the detailed information of dataset as follows:
 
-<img width="310" alt="image" src="https://github.com/SJinji/satellite-image-semantic-segmentation/assets/103330181/5031f78f-97ea-4d72-9ac5-817f77bd5a42">
+<img width="539" alt="image" src="https://github.com/SJinji/satellite-image-semantic-segmentation/assets/103330181/3c6ad7f5-cf80-4d6e-96d4-9790017a504b">
+
+<img width="539" alt="image" src="https://github.com/SJinji/satellite-image-semantic-segmentation/assets/103330181/2538e75f-8594-440b-89c7-0d74dba327e9">
+
 
 ## Modeling
 ### Image Pre-processing
