@@ -1,4 +1,4 @@
-# satellite-image-semantic-segmentation-
+# satellite-image-semantic-segmentation
 Hurricane Harvey Challenge [2022-2023]
 
 ## Team Members
@@ -11,9 +11,7 @@ This project aims to use deep learning to accurately segment buildings and roads
 ## Dataset
 There are 299 images for training and 75 images for testing, the detailed information of dataset as follows:
 
-![image](https://user-images.githubusercontent.com/103330181/235304648-33aa49b3-3ddc-404f-8e27-8bc351fd386c.png)
-![image](https://user-images.githubusercontent.com/103330181/235304657-97e9bb82-279c-4fcc-9d64-f8c3ce330a9f.png)
-
+<img width="310" alt="image" src="https://github.com/SJinji/satellite-image-semantic-segmentation/assets/103330181/5031f78f-97ea-4d72-9ac5-817f77bd5a42">
 
 ## Modeling
 ### Image Pre-processing
